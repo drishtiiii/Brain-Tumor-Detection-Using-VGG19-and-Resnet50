@@ -1,1 +1,1 @@
-# BrainvTumor-Detection-Using-VGG19-and-Resnet50
+# Brain-Tumor-Detection-Using-VGG19-and-Resnet50
